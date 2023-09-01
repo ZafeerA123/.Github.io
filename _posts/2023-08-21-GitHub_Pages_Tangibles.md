@@ -2,22 +2,23 @@
 toc: true
 comments: true
 layout: post
-title: Sample Review Ticket
-description: Example Review Ticket!!! This will help us communicate results.
+title: Review Ticket
+description: Here are some important key words. 
 type: tangibles
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 0} }
 ---
 
-### Summary of Accomplishments
-> Update Blog to contain all hacks.  
-- Reviewed with Pair.  Discuss/Show evidence.
-- Discuss laptop, cloud computer.
-- Discuss tools setup and troubles.
-- Show personal blog / home page.
-- Show how you are maintaining notes, answering hacks, and showing tangibles.  
-- How have you learned Markdown, HTML, CSS, JavaScript.
-- Show Jupyter Notebooks and how you have added and organized them in the blog.
-- Show evidence of using Slack Account, show app installed on Laptop and/or phone.  Show awared of #annoncements, #general, #coding.
-- Run make commands to build and test blog locally, before pushing changes to GitHub pages.
-- Discuss GitHub Account, show ability to push/pull changes from VSCode.
-- Discuss development on Themes, show how you plan to organized lab notebook.
+### Important commands to remember:
+ls: List files and directories in the current directory.
+
+cd: Change the current working directory.
+
+make: Build and manage projects using Makefiles.
+
+clear: Clear the terminal screen.
+
+touch: Create an empty file or update the timestamp of an existing file.
+
+rm: Remove files and directories. Be careful, as it's a powerful command.
+
+cp: Copy files and directories.
