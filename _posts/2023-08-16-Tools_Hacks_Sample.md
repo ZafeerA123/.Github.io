@@ -27,9 +27,9 @@ type: hacks
 ### Git commands
 -Run this code 
 
-```bash
-git config --global user.email <your email>
-git config --global user.name <your github id>
+```bash 
+git config --global user.email <your email> 
+git config --global user.name <your github id> 
 ```
 
 -The purpose of these commands is to ensure that your Git commits are associated with the correct user identity when you make changes to Git repositories

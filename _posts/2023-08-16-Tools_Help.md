@@ -4,7 +4,7 @@ comments: false
 hide: true
 layout: post
 type: help
-title: Tool References
+title: Tool names
 ---
 
 ### `Visual Studio Code` [Overview](https://code.visualstudio.com/docs/introvideos/basics)
