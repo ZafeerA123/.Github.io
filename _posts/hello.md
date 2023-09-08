@@ -2,8 +2,8 @@
 toc: false
 comments: false
 layout: post
-title: Classic Snake Game
+title:
 description: 
-type: hacks
+type: poop
 courses: { compsci: {week: 1} }
 ---
