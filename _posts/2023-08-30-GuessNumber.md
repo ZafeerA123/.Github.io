@@ -5,7 +5,7 @@ layout: post
 title: Guess the number
 description: A game I found online
 type: hacks
-courses: { compsci: {week: 2} }
+courses: { compsci: {week: 1} }
 ---
 
 <!DOCTYPE html>
