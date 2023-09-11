@@ -2,11 +2,17 @@
 toc: true
 comments: false
 layout: post
-title: Sample of Detail Plan
+title: Week 2
 description: Example Plan!!! Analyze hacks and plan.
 type: plans
 courses: { compsci: {week: 2} }
 ---
+## Daily Plan
+1. Make Lab Notebook rows/columns for each week 0, 1, 2.  Make a hack (IPYNB) and review/exit ticket for each row.   Review student page as guide https://nighthawkcoders.github.io/student/compsci<br>
+2. Get  my github.io public site running.  This will work after GitHub sync.  Here are some key references for GitHub: https://nighthawkcoders.github.io/student/2023/08/26/GitHub_Sync.html<br>
+3. Work on revising my IPYNB file(s) and add in my required Hacks.  Learn how to do  “Code Fencing”, “Code Cells”.  Revise  Linux Shell  IPYNB, prune and perform hacks to match my understanding.<br>
+4. Revise Home Page to only be a Lab Notebook Cover sheet<br>
+5. Work on adding a Project
 
 ### PBL Unit 1 / Week 1
 Learning outcome. Building a personal and running GitHub Pages.
