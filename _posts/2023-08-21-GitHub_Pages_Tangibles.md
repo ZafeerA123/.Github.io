@@ -29,12 +29,12 @@ One problem I faced when starting out was when I was trying to type 'make' into 
 This is Teacher Directory: 
 
 ```bash
-default:~/vscode/teachers$🍎
+default:~/vscode/teachers$▯
 ```
 
 This is your Student Directory:
 ```bash
-default:~/vscode/(Yourname).github.io$🍎
+default:~/vscode/(Yourname).github.io$▯
 ```
 
 
