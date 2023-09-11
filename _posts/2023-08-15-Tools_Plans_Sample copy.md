@@ -1,16 +1,16 @@
 ---
-toc: true
+toc: false
 comments: false
 layout: post
 title: Sample Daily Plan 
-description: Example Blog!!!  This shows planning and notes from hacks.
+description: Week 0 plan
 type: plans
 courses: { compsci: {week: 0} }
 ---
 
-### PBL Unit 1 / Week 0
-Learning outcome.  Installing Tools and showing usage of VSCode.
-- Wednesday - Pick pair share partner, Pick crossover pair, Establish team of four.  Spend some time talking and getting to know each other, particularly with Computer Science experience and goals.  You should be matched with someone that has similar experience.
+### Week 0
+Learning and installing VSCode.
+- Wednesday - Pick pair/partner, get to know partner better, and try to talk particularly with Computer Science experience and goals. Talk about what we know, and what we want to know. We should have a similar experience level
 - Thursday - Setup Tools on laptop and/or Cloud Computer.
-- Friday - Review and test as a Pair. Spend 25 minutes at one keyboard then switch for next 25 minutes.
+- Friday - Work on getting to know what directories do, and how tools work. Do this with partner to get first hack ideas for your upcoming blog
 
