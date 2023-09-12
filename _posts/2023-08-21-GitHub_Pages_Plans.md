@@ -31,3 +31,10 @@ Learning outcome. Building a personal and running GitHub Pages.
 - Slack Account, install the App on Laptop and/or phone, get used to reading announcements. Slack is the tool that we will use for messaging, we have been averaging 1000s of essages each year.
 - VSCode is the code editor we will be using in this class.  VSCode is more than and editor, this type of tool is often called an Interactive Development Environment (IDE). 
 - Run make commands to build and test blog locally, before pushing changes to GitHub pages.
+
+## Daily Plan
+1. Make Lab Notebook rows/columns for each week 0, 1, 2.  Make a hack (IPYNB) and review/exit ticket for each row.   Review student page as guide https://nighthawkcoders.github.io/student/compsci<br>
+2. Get  my github.io public site running.  This will work after GitHub sync.  Here are some key references for GitHub: https://nighthawkcoders.github.io/student/2023/08/26/GitHub_Sync.html<br>
+3. Work on revising my IPYNB file(s) and add in my required Hacks.  Learn how to do  “Code Fencing”, “Code Cells”.  Revise  Linux Shell  IPYNB, prune and perform hacks to match my understanding.<br>
+4. Revise Home Page to only be a Lab Notebook Cover sheet<br>
+5. Work on adding a Project
