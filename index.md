@@ -13,6 +13,7 @@ My name is Zafeer Ahmed, I'm a sophomore at Del Norte. In my free time I play so
 <div style="text-align: center;">
     <img src="images/About-Me.png" width="350" height="250">
 </div>
+
 ### My Socials
 - [Instagram](N/A)
 - [Discord](Zafy1314)
