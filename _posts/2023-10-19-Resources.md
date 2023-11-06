@@ -1,8 +1,8 @@
 ---
 comments: False
 layout: post
-title: Overlap/collision code explanation 
-description: How Collision works in our game
+title: Resources
+description: Resources
 type: tangibless
 courses: {'compsci': {'week': 7}}
 categories: ['C4.1']
@@ -12,14 +12,13 @@ permalink: Resources/Resources
 {% include Documentation_basics.html %}
 
 
- ## Drawings I made used in game
-![office](/images/officeroom4.png)
+![office](/zafeera25322.github.io/images/officeroom4.png)
 ![Elevator](/images/Elevator_Up.png)
 ![EKeySprite](/images/EKeySprite.png)
 
 ## Drawings I made not used in game
 ![Floating_Bed](/images/floatingBed-sprite.png)
-![Candle_Sprite](/images/Game/candle-sprite.png)
+![Candle_Sprite](/images/candle-sprite.png)
 
 
 
