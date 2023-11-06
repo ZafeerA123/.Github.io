@@ -3,8 +3,7 @@ toc: false
 comments: false
 layout: post
 title: JS/Html
-description: THE FOLLOWING IS ALL FROM CHATGPT
-type: plans
+description: THE FOLLOWING IS A COMBINATION OF CHATGPT AND VIDEOS
 courses: { compsci: {week: 7} }
 permalink: Js/Js
 ---
