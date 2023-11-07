@@ -12,13 +12,18 @@ permalink: Resources/Resources
 {% include Documentation_basics.html %}
 
 
-![office](/zafeera25322.github.io/images/officeroom4.png)
-![Elevator](/images/Elevator_Up.png)
-![EKeySprite](/images/EKeySprite.png)
+![office](/images/Game/officeroom4.png)
+![Elevator](/images/Game/Elevator_Up.png)
+![EKeySprite](/images/Game/EKeySprite.png)
 
 ## Drawings I made not used in game
-![Floating_Bed](/images/floatingBed-sprite.png)
-![Candle_Sprite](/images/candle-sprite.png)
+![Floating_Bed](/images/Game/floatingBed-sprite.png)
+![Candle_Sprite](images/Game/candle-sprite.png)
+
+<div style="text-align: center;">
+    <img src="images/About-Me.png" width="350" height="250">
+</div>
+
 
 
 
