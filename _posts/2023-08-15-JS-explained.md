@@ -84,7 +84,7 @@ JavaScript and HTML work together: JavaScript enhances HTML by making web pages 
 These code snippets and concepts cover essential aspects of JavaScript and HTML for web development. They can be used as building blocks for creating interactive and well-structured web applications.
 
 
-## Objected Oriented Programming 
+## Objected Oriented Programming (simply explained)
 In simple terms, OOP is like creating a set of Lego blocks. Each block is an object, and they can be connected to form complex structures. 
 
 For example, consider a "Car" object. It has attributes (properties) such as color, speed, and size, and it has behaviors (methods) such as starting the engine, stopping, and accelerating. In OOP, you'd create a class called "Car" that defines these attributes and behaviors, and then create instances of this class to represent specific cars in your program.
